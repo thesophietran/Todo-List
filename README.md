@@ -1,5 +1,5 @@
 # Todo List Project 
-Add tasks to do. Click here to try: https://loanttran.github.io/Todo-List/
+Add tasks to do. Click here to try: https://thesophietran.github.io/Todo-List/
 
 Famework used: html, css, jQuery, and Font Awesome. Gradient taken from https://uigradients.com/#Turquoiseflow 
 
